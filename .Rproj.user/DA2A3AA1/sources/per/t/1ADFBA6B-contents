@@ -166,8 +166,10 @@ website:
       align: left
       contents:
         - href: catalog.qmd
-        - href: Catalog/units.qmd
+        - href: Catalog/traits.qmd
         - href: Catalog/weapon_tags.qmd
+        - href: Catalog/units.qmd
+
 
 
 #Format
