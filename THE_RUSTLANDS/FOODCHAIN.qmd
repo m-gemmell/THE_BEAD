@@ -1,0 +1,35 @@
+---
+title: "FOOD CHAIN"
+---
+
+![](images/rusty_chain.png){width=30% fig-align="center"}
+
+A lot of the food chain of the RUSTLANDS is interconnected. 
+Below is a quick description of some of the key players of the food chain and where they are situated. 
+There is more information about these creatures and others in later sections.
+
+## First level
+
+The LEMAN TREE and the LEMAN GROVE photosynthesise and produce fruit & foliage that creatures of the LEMAN GROVE consume.
+
+The food chain of the RUSTLANDS is reliant on the FLYTOPLANKTON. They photosynthesise and so produce energy many of the other creatures utilise.
+
+## Second level
+
+The LEECH WORMS live within the sands of the RUSTPLAINS. They feed on the excretions of animals, including the FLYTOPLANKTON, and the minerals in the sand including the rust. They may also prey on creatures that descend into quick sand. Churning the sand is important for the nutrient uptake of the LEMAN TREE.
+
+The BURNACLES live on hard surfaces across the RUSTLANDS. They feed on the FLYTOPLANKTON.
+
+## Third level
+
+The RUSTY HORSESHOE CRABS roam the RUSTPLAINS. Their diet consists mainly of the LEECH WORMS but they will also eat carrion if found.
+
+The ABYSSAL BUTTERCUPS live on hard surfaces near BURNACLES. They are like deep sea anemones found near hydrothermal vents, resistant to high temperatures. They can move slowly and primarily hunt BURNACLES.
+
+## Fourth level
+
+The OCTONUT CRABS herd the RUSTY HORSESHOE CRABS and use them as their primary food source. They will also eat carrion, BURNACLES, and ABYSSAL BUTTERCUPS.
+
+
+
+

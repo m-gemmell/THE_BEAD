@@ -1,0 +1,76 @@
+---
+title: "LEMAN GROVE"
+---
+
+<center>![](images/LEMANGROVE.png){style="width:200px; border-radius:15px;  background:white"}</center>
+
+A 300 metre, 20 metre diameter tree of pure black back bark with branches bearing yellow leaves and orange lemons (LEMANS) stands in the centre of the LEMAN GROVE. The LEMAN TREE'S trunk descends into a mangrove forest spreading out 300 metres in all directions. What looks like mangrove trees are actually the roots of the LEMAN TREE. Each of these ersatz trees formed by many roots erratically emerging and joining into a tree above the water line. The roots then separate higher up into branches with the same yellow leaves and orange lemons as the main tree.
+
+At the outskirts of the LEMAN GROVE are thick barbed roots that line the perimter. This is the BRAMBLE BARRIER that is near impossoble to travel through.
+
+The saltwaters and air of the LEMAN GROVE are bursting with life. Fish, birds, insects etc are thriving, for now. Their existence is tied to the LEMAN TREE which is withering, many of the branches bereft of leaves.
+
+Although there is a hive of activity the LEMAN SERPENTS, LEMAN WOODPECKERS, and NOSEY MONKEYS are the most important for the player characters.
+
+## LEMAN SERPENTS {#lemanserpent}
+
+<center>![](images/LEMAN_SERPENTS.png){style="width:200px; border-radius:15px;  background:null"}</center>
+
+These black and yellow sea snakes are the caretakers of the grove and its inhabitants. They manage all the creatures except the rambunctious NOSEY MONKEYS.
+
+Being sentient, they will offer the player characters one LEMAN each so they may communicate with them and the other sentient creatures of the RUSTLANDS. They will ask the player characters to bring harmony to their safe zone. They will suggest an all out war in the RUSTPLAINS between the three factions of WHALEFALL, SKYSLIP, and THE GARDEN. This will feed the land and slow down exploitation. They will be happy with other methods but they at least want some intrigue for they are followers of NYXMERA, the sky deity who loves comedy and drama.
+
+### LEMAN SERPENT
+
+2HP \| 0 ARMOR \| TAC:+1 \| FRC:-2 \| RFX:0 \| CRE:+1
+
+-   Black and yellow sea snake
+-   Venomous bite (1D6 DAMAGE)
+-   Cunning intelligence
+
+**ARMLESS-MANIPULATORS:** These serpents want to feed the LEMAN TREE in an interesting way. If there is not enough intrigue occurring they may hypnotise someone, giving them a vague 3 word command that they must fulfil once.
+
+## LEMAN WOODPECKERS {#lemanwoodpecker}
+
+<center>![](images/LEMAN_WOODPECKER.png){style="width:200px; border-radius:15px;  background:white"}</center>
+
+The LEMAN WOODPECKERS take care of the tree. In exchange they are permitted to create hollows to live within.
+
+They periodically patrol around the BRAMBLE BARRIER to attack and scare off the CRABS, TALOES, and ICEFISH.
+
+They are not sentient and can't be communicated with by the players. However, the LEMAN SERPENTS are able to communicate with them by the exchange of emotions and images. They are allies. The LEMAN WOODPECKERS act as the eyes and airforce, whilst the LEMAN SERPENTS act as the brains.
+
+The LEMAN WOODPECKERS will initially try to lead the player characters to the LEMAN SERPENTS, the birds being able to part the BRAMBLE BARRIER. How they subsequently act towards the player characters is to be decided by the LEMAN SERPENTS.
+
+### LEMAN WOODPECKER
+
+2HP 0 ARMOR TAC:+1 \| FRC:0 \| RFX:+1 \| CRE:-1
+
+-   Akin to Acorn Woodpeckers
+-   Eat insects and the fruit and seeds of the LEMAN TREE
+-   Iron-tipped beak (3 DAMAGE)
+-   Groups of up to 12 cooperatively breed and raise young
+-   Live in tree hollows in the LEMAN TREE
+
+**ABORIST:** Although they may appear destructive the LEMAN WOODPECKERS diligently prune the tree and rid it of parasites. In exchange the roots of the LEMAN TREE will move to protect them as the birds protect them from the crabs with their shell breaking beaks.
+
+## NOSEY MONKEYS {#noseymonkeys}
+
+<center>![](images/NOSEY_MONKEY.png){style="width:200px; border-radius:15px;  background:white"}</center>
+
+Sentient Probosics monkeys who like to watch from their Mangrove trees.
+
+They consume the dark black flesh and juices of the LEMANS and share its iron preserving properties through their urinations.
+
+Although they bother the LEMAN SERPENTS with their incessant questions and noise, they are vital to the local ecosystem.
+
+### NOSEY MONKEY
+
+4HP \| 0 \| ARMOR TAC:+2 \| FRC:-1 \| RFX:+2 \| CRE:0
+
+-   Proboscis monkeys
+-   Yell at each other across the trees
+-   Public urinators
+-   Braided LEMON flowers in fur
+
+**INQUISITIVE:** These monkeys are very curious about the world outside the LEMAN GROVE. Unfortunately they cannot leave it due to their reliance on the LEMANS. They will trade LEMANS for answers about the rest of the RUSTLANDS.
