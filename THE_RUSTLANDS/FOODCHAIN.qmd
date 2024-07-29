@@ -4,33 +4,36 @@ title: "FOOD CHAIN"
 
 ![](images/rusty_chain.png){width=30% fig-align="center"}
 
-A lot of the food chain of the RUSTLANDS is interconnected. 
+A lot of the food chain of the __RUSTLANDS__ is interconnected. 
 Below is a quick description of some of the key players of the food chain and where they are situated. 
 There is more information about these creatures and others in later sections.
 
 ## First level
 
-The LEMAN TREE and the LEMAN GROVE photosynthesise and produce fruit & foliage that creatures of the LEMAN GROVE consume.
+The __LEMAN TREE__ and the [LEMAN GROVE](/THE_RUSTLANDS/LEMAN_GROVE.qmd) photosynthesise and produce fruit & foliage that creatures of the [LEMAN GROVE](/THE_RUSTLANDS/LEMAN_GROVE.qmd) consume.
 
-The food chain of the RUSTLANDS is reliant on the FLYTOPLANKTON. They photosynthesise and so produce energy many of the other creatures utilise.
+The food chain of the __RUSTLANDS__ is reliant on the [FLYTOPLANKTON](/THE_RUSTLANDS/FOODCHAIN.qmd#flytoplankton). They photosynthesise and so produce energy many of the other creatures utilise.
 
 ## Second level
 
-The LEECH WORMS live within the sands of the RUSTPLAINS. They feed on the excretions of animals, including the FLYTOPLANKTON, and the minerals in the sand including the rust. They may also prey on creatures that descend into quick sand. Churning the sand is important for the nutrient uptake of the LEMAN TREE.
+The [LEECH WORMS](/THE_RUSTLANDS/RUSTPLAINS.qmd#leechworms) live within the sands of the RUSTPLAINS. They feed on the excretions of animals, including the [FLYTOPLANKTON](/THE_RUSTLANDS/FOODCHAIN.qmd#flytoplankton), and the minerals in the sand including the rust. They may also prey on creatures that descend into quick sand. Churning the sand is important for the nutrient uptake of the LEMAN TREE.
 
-The BURNACLES live on hard surfaces across the RUSTLANDS. They feed on the FLYTOPLANKTON.
+The [BURNACLES](/THE_RUSTLANDS/FOODCHAIN.qmd#burnacles) live on hard surfaces across the RUSTLANDS. They feed on the [FLYTOPLANKTON](/THE_RUSTLANDS/FOODCHAIN.qmd#flytoplankton)
 
 ## Third level
 
-The RUSTY HORSESHOE CRABS roam the RUSTPLAINS. Their diet consists mainly of the LEECH WORMS but they will also eat carrion if found.
+The [RUSTY HORSEHOSE CRABS](/THE_RUSTLANDS/WHALEFALL.qmd#rustyhorseshoecrabs) roam the [RUSTPLAINS](/THE_RUSTLANDS/RUSTPLAINS.qmd). Their diet consists mainly of the [LEECH WORMS](/THE_RUSTLANDS/RUSTPLAINS.qmd#leechworms) but they will also eat carrion if found.
 
-The ABYSSAL BUTTERCUPS live on hard surfaces near BURNACLES. They are like deep sea anemones found near hydrothermal vents, resistant to high temperatures. They can move slowly and primarily hunt BURNACLES.
+The [ABYSSAL BUTTERCUPS](/THE_RUSTLANDS/THE_GARDEN.qmd#abyssalbuttercup) live on hard surfaces near [BURNACLES](/THE_RUSTLANDS/FOODCHAIN.qmd#burnacles) They are like deep sea anemones found near hydrothermal vents, resistant to high temperatures. They can move slowly and primarily hunt [BURNACLES](/THE_RUSTLANDS/FOODCHAIN.qmd#burnacles)
 
 ## Fourth level
 
-The OCTONUT CRABS herd the RUSTY HORSESHOE CRABS and use them as their primary food source. They will also eat carrion, BURNACLES, and ABYSSAL BUTTERCUPS.
+The [OCTONUT CRABS](/THE_RUSTLANDS/WHALEFALL.qmd#octonutcrabs) herd the [RUSTY HORSEHOSE CRABS](/THE_RUSTLANDS/WHALEFALL.qmd#rustyhorseshoecrabs) and use them as their primary food source. They will also eat carrion, [BURNACLES](/THE_RUSTLANDS/FOODCHAIN.qmd#burnacles), and [ABYSSAL BUTTERCUPS](/THE_RUSTLANDS/THE_GARDEN.qmd#abyssalbuttercup).
 
 ## FLYTOPLANKTON {#flytoplankton}
+<center>
+![](images/FLYTOPLANKTON.png){style="width:100px; border-radius:15px;  background:white"}
+</center>
 
 Swarms of FLYTOPLANKTON look like a haze in the air and mats on surfaces. These swarms have a gradient of colours from green to yellow to red. They are actually a form of phytoplankton, acting as the lowest level of the food chain. They are harmless but irritating. 
 
@@ -46,16 +49,20 @@ They regularly fly about during the day. They will land on sun drenched surfaces
 __CANOPY:__ FLYTOPLANKTON are flying phytoplankton. To conserve energy they land on and blanket physical surfaces. Due to their small size but large numbers conventional melee weapons and firearms have next to no effect. Fire, explosives, and chemicals are effective.
 
 ## BURNACLES {#burnacles}
+<center>
+![](images/BURNACLES.png){style="width:100px; border-radius:15px;  background:white"}
+</center>
 
-These barnacles can unleash heat. They produce warmth to lure FLYTOPLANKTON, their primary food source. They use their long sticky cirri (like tongues) to capture their prey.
+These barnacles can unleash heat. They produce warmth to lure [FLYTOPLANKTON](/THE_RUSTLANDS/FOODCHAIN.qmd#flytoplankton), their primary food source. They use their long sticky cirri (like tongues) to capture their prey.
 
 If heavily disturbed they can shoot flames from exhausts on their sides. This is primarily used as a predator deterrent. They don’t tend to mind being walked on as their hard shells and tight colony densities normally cause little harm to come to them.
 
-They are found in small tight colonies on hard solid surfaces. Many of their hosts and neighbours like them as it keeps surfaces clean of the FLYTOPLANKTON. Surfaces they are found on include: 
-The exposed bark and roots of the LEMAN TREE
-Rock surfaces including the hydrothermal vents of THE GARDEN
-Bones including the Whale skeleton of WHALEFALL
-Metals including the wrecks of SKYSLIP and the suits of the ICEFISH
+They are found in small tight colonies on hard solid surfaces. Many of their hosts and neighbours like them as it keeps surfaces clean of the [FLYTOPLANKTON](/THE_RUSTLANDS/FOODCHAIN.qmd#flytoplankton) Surfaces they are found on include: 
+
+- The exposed bark and roots of the LEMAN TREE
+- Rock surfaces including the hydrothermal vents of THE GARDEN
+- Bones including the Whale skeleton of WHALEFALL
+- Metals including the wrecks of SKYSLIP and the suits of the ICEFISH
 
 ### COLONY OF BURNACLES
 
@@ -65,4 +72,4 @@ Metals including the wrecks of SKYSLIP and the suits of the ICEFISH
 - Fire exhaust (1D3 DAMAGE)
 - Ash covered shells (2 ARMOR)
 
-__KILN:__ These colonies do not move instead waiting for their prey to come within reach. They can emit heat to attract FLYTOPLANKTON and release fire from exhausts on the side of their shells to deter predators.
+__KILN:__ These colonies do not move instead waiting for their prey to come within reach. They can emit heat to attract [FLYTOPLANKTON](/THE_RUSTLANDS/FOODCHAIN.qmd#flytoplankton) and release fire from exhausts on the side of their shells to deter predators.

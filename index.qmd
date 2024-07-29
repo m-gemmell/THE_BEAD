@@ -4,15 +4,15 @@ editor:
   markdown: 
     wrap: sentence
 ---
-![](images/primeval_deities.png){width=50% fig-align="center"}
+![](images/THE_BEAD.png){width=50% fig-align="center"}
 
 This is a website to host information of the BEAD PROJECT and the various dimensions it visits. It is built for the FIST RPG. 
 t is a work in progress. 
 Text and images created by Matthew R. Gemmell except for for some FIST content.
 
 The BEAD is a massive bead shaped structure powered by the [4 Primeval Deities](https://m-gemmell.github.io/Primeval_Deities_FIST/) to explore other dimensions.
-Jaws of TARTARUS as a threshold to safely separate worlds whilst a tree of GAIA unites them. 
-An eye of NYXMERA to power the craft whilst the water of PROTEUS prevents death by this same power.
+Jaws of [TARTARUS](https://m-gemmell.github.io/Primeval_Deities_FIST/tartarus.html) as a threshold to safely separate worlds whilst a tree of [GAIA](https://m-gemmell.github.io/Primeval_Deities_FIST/gaia.html) unites them. 
+An eye of [NYXMERA](https://m-gemmell.github.io/Primeval_Deities_FIST/nyxmera.html) to power the craft whilst the water of [PROTEUS](https://m-gemmell.github.io/Primeval_Deities_FIST/proteus.html) prevents death by this same power.
 
 Please use these materials as you would like.
 

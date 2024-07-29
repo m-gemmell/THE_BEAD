@@ -4,14 +4,14 @@ editor: source
 
 #Website
 website:
-  favicon: /images/Gaia_favicon.png
+  favicon: /images/THE_BEAD_favicon.png
   page-navigation: true
-  title: "THE BEAD PROJECT"
+  title: "THE BEAD"
   description: "Multi dimensional advetures with the FIST RPG"
 ##Navbar
   navbar:
-    title: Primeval Deities
-    logo: "images/Gaia.png"
+    title: THE BEAD
+    logo: "images/THE_BEAD.png"
     collapse-below: lg
 ###Navbar left
     left:
@@ -27,7 +27,7 @@ website:
         href: https://ko-fi.com/waveofinspiration
         aria-label: Ko-fi
       - icon: github
-        href: https://github.com/m-gemmell/PRIMEVAL_DEITIES
+        href: https://github.com/m-gemmell/THE_BEAD
         aria-label: GitHub
 ##Apge footer
   page-footer:
@@ -57,6 +57,7 @@ website:
         - href: THE_RUSTLANDS/WHALEFALL.qmd
         - href: THE_RUSTLANDS/THE_GARDEN.qmd
         - href: THE_RUSTLANDS/SKYSLIP.qmd
+        - href: THE_RUSTLANDS/CATALOG.qmd
 
 #Format
 format:

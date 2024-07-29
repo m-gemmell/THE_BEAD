@@ -10,7 +10,7 @@ The Rustplains is a desert of sand and rust. It is a flat and featureless ground
 ![](images/LEECH_WORM.png){style="width:200px; border-radius:15px;  background:white"}
 </center>
 
-LEECH WORMS feed on rust, carrion, and the excretions of creatures including FLYTOPLANKTON.
+LEECH WORMS feed on rust, carrion, and the excretions of creatures including [FLYTOPLANKTON](/THE_RUSTLANDS/FOODCHAIN.qmd#flytoplankton).
 
 Creatures are normally safe from them unless a swarm of LEECH WORMS are near the surface causing moving patches of quick sand. This allows them to suck in tracks, rocks, and human sized creatures into the rust sands where they may be consumed. This maintains the flat surface of the RUSTPLAINS.
 
@@ -37,19 +37,19 @@ You can roll on the below weather table to determine the weather during travel i
 | **2D6**    | **Weather**                                                                                                                                                                                                                      |
 | **2**      | **Rock fall.** Rocks from the surrounding tempest fall onto the **RUSTPLAINS**. The characters better take cover.                                                                                                                |
 | **3**      | **Rust winds**. The winds become powerful blowing the rust. This makes travel difficult if going against the wind. Roll a D6 to determine direction (1 = North, 2 = East, 3 = South east, 4 = South, 5 = South west, 6 = West).  |
-| **4 - 5**  | **Gaze of NYXMERA**. The visible eyes of **NYXMERA** (sun/moon/stars) are staring at the players. This is a sign of something interesting happening soon.                                                                        |
-| **6 - 8**  | **Clear skies** with passing swarms of **FLYTOPLANKTON.**                                                                                                                                                                        |
-| **9 - 10** | **Rain** with no clouds. **FLYTOPLANKTON** are hiding in any covered and dry surfaces they can find.                                                                                                                             |
-| **11**     | **FLYTOPLANKTON** fog. The players are surrounded by a massive swarm of migrating **FLYTOPLANKTON**. Not harmful but makes navigation next to impossible.                                                                        |
-| **12**     | **LEECH WORM SWARMS.** The area is less flat than normal. This will soon attract many **SWARMS OF LEECH WORMS** to the surface. The characters will need to escape or involuntarily donate blood.                                |
+| **4 - 5**  | **Gaze of NYXMERA**. The visible eyes of [NYXMERA](https://m-gemmell.github.io/Primeval_Deities_FIST/nyxmera.html) (sun/moon/stars) are staring at the players. This is a sign of something interesting happening soon.                                                                        |
+| **6 - 8**  | **Clear skies** with passing swarms of [FLYTOPLANKTON](/THE_RUSTLANDS/FOODCHAIN.qmd#flytoplankton).                                                                                                                                                                        |
+| **9 - 10** | **Rain** with no clouds. [FLYTOPLANKTON](/THE_RUSTLANDS/FOODCHAIN.qmd#flytoplankton) are hiding in any covered and dry surfaces they can find.                                                                                                                             |
+| **11**     | [FLYTOPLANKTON](/THE_RUSTLANDS/FOODCHAIN.qmd#flytoplankton) fog. The players are surrounded by a massive swarm of migrating [FLYTOPLANKTON](/THE_RUSTLANDS/FOODCHAIN.qmd#flytoplankton). Not harmful but makes navigation next to impossible.                                                                        |
+| **12**     | **LEECH WORM SWARMS.** The area is less flat than normal. This will soon attract many [SWARMS OF LEECH WORMS](/THE_RUSTLANDS/RUSTPLAINS.qmd#leechworms) to the surface. The characters will need to escape or involuntarily donate blood.                                |
 
 ## EVENTS
 
 Possible interesting events in the **RUSTPLAINS** include:
 
-1.  **LEMAN WOODPECKERS** are harassing a flock of **RUSTY HORSESHOE CRABS**
-2.  An **ARMOURED ICEFISH** is collecting rust from the sand with a sort of magnetic gathering device
-3.  What seems like dandelion seeds are falling from the sky. These are actually **ABYSSAL BUTTERCUP** eggs blown up by the hydrothermal vents in **THE GARDEN**
-4.  An **OBSIDIAN LAVA TALOS** is hunting **JUVENILE OCTONUT CRABS**
-5.  Discover the desiccated remains of a **NOSEY MONKEY**.
+1.  [LEMAN WOODPECKERS](/THE_RUSTLANDS/LEMAN_GROVE.qmd#lemanwoodpecker) are harassing a flock of [RUSTY HORSEHOSE CRABS](/THE_RUSTLANDS/WHALEFALL.qmd#rustyhorseshoecrabs)
+2.  An [ARMOURED ICEFISH](/THE_RUSTLANDS/SKYSLIP.qmd#armouredicefish) is collecting rust from the sand with a sort of magnetic gathering device
+3.  What seems like dandelion seeds are falling from the sky. These are actually [ABYSSAL BUTTERCUPS](/THE_RUSTLANDS/THE_GARDEN.qmd#abyssalbuttercup) eggs blown up by the hydrothermal vents in [THE GARDEN](/THE_RUSTLANDS/THE_GARDEN.qmd)
+4.  An [OBSIDIAN LAVA TALOS](/THE_RUSTLANDS/THE_GARDEN.qmd#OBSIDANLAVATALOES) is hunting [JUVENILE OCTONUT CRAB](/THE_RUSTLANDS/WHALEFALL.qmd#juvoctonutcrab)
+5.  Discover the desiccated remains of a [NOSEY MONKEYS](/THE_RUSTLANDS/LEMAN_GROVE.qmd#noseymonkeys).
 6.  A long forgotten research base called ATE-R. Kept frozen are brown six legged starfish. They will try to enter orifices of creatures to take over their mind and form a hivemind. If the Starfish are unleashed the lab will lockdown into quarantine till there are no more active starfish.
