@@ -1,0 +1,33 @@
+---
+title: "DENDROSPHAERA"
+---
+
+__UNDER CONSTRUCTION__
+
+This is a world of forests. 
+It is unfortunately in turmoil as the AI Amazonia has invaded using Cyborg Abyssal Buttercups to mind control many of the local denizens.
+She uses drones that must be nearby to relay orders to the mind controlled employees.
+Cryborg abyssal buttercups only work in moist locations
+
+- Redwoods: Fog and mist
+- Seawoods: Water
+- Fellwoods: Fog & mist
+- Shorewoods: Water
+
+
+The team will have to make there way through different forests to weaken and eventual stop Amazonia's stranglehold on the area.
+
+
+Rules for creator
+Aim for each main place to have:
+
+- 3 flora/fauna
+  - 1 beneficial
+  - 1 neutral
+  - 1 detrimental
+
+The main places occupied by Amazonia and her forces (SANDWOODS, LAVAWOODS, WATERWOODS, & REDWOODS) should have
+
+- Bases
+  - 1 Major base that increases defence of the REDWOODS. Try to make proper base map.
+  - 3 minor bases that increase defence of the zone's major base. Can also be used to get info on major base.
