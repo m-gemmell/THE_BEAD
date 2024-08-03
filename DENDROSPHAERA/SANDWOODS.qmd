@@ -2,9 +2,9 @@
 title: "SANDWOODS"
 ---
 
-- A desert filled with cactuses
+-   A desert filled with cactuses
 
-- Amazonia uses this area for sand mining. Possibly for glass and concrete production.
+-   Amazonia uses this area for sand mining. Possibly for glass and concrete production.
 
 A desert full of sand dunes created by the winds of the nearby WINDWOODS.
 
@@ -22,12 +22,9 @@ Base where water is brought in from the sea and desalinated. Uses sun based evap
 
 ### Bonehead hatchery
 
-Boneheads are Pachycephalosaurus. Throughout the desert they feed on cactus. They all lay their eggs at the hatchery.
-Doppelganger Dunes set up defences here to guard the eggs from predators.
-In exchange they take some eggs for nutrition, ensuring to leave enough for a healthy population.
+Boneheads are Pachycephalosaurus. Throughout the desert they feed on cactus. They all lay their eggs at the hatchery. Doppelganger Dunes set up defences here to guard the eggs from predators. In exchange they take some eggs for nutrition, ensuring to leave enough for a healthy population.
 
-The boneheads were created by the CGC in the WATERWOODS.
-They are like an invasive species, having destroyed a large amount of the cactuses
+The boneheads were created by the CGC in the WATERWOODS. They are like an invasive species, having destroyed a large amount of the cactuses
 
 It is an open base guarded by towers and patrols.
 
@@ -35,6 +32,82 @@ It is an open base guarded by towers and patrols.
 
 The major base is a sand extraction site.
 
-It is heavily
+It is heavily defended. It is a floating island stolen from the WINDWOODS.
 
+Sand is separated into its various elements & compounds.
+
+Goods, people, and energy flown in and out by Adult antlions. The SKYBOUND DOPPELGANGERS can get themselves on and off it.
+
+### Defenses
+
+-   4 Large laser cannon towers: 2 on top and 2 on bottom surface of island. If the solar tower has be sabotaged successfully only one of these will be functional, one at the top.
+-   Doppelganger guards: There will be less guards if the desalination and bonehead base have been sabotaged. This is due to the redirecting of forces and that some of the forces will have to leave the DENDROSPHAERA as there is not enough provisions to maintain them all.
+
+## Fauna an Flora
+
+### Cactuses
+
+Rare fruit can be gathered from the cactuses. These can be used to tame the BONEHEADS.
+
+### BONEHEADS
+
+BONEHEADS are Pachycephalosaurus created by the CGC in the WATERWOODS. They are roaming herbivourous flocks that have decimated the cactus population and therefore played havoc with the local ecosystem.
+
+### GIANT ANTLIONS
+
+LARVAE GIANT ANTLIONS hide in the sands near cactuses. They feed on herbivores such as BONEHEADS. Due to the abundance of BONEHEADS the population of ANTLIONS has also vastly increased.
+
+The ADULT GIANT ANTLIONS fly through the air and many are used by Doppelgänger Dunes as flying transport.
+
+## Doppelgänger Dunes
+
+A Nyxmera faction that lives and works in deserts. They love the temperature extremes of day & night. They also adore the clearness of the skies so they can observe the day and night skies.
+
+Apart from work they also partake in the following past times:
+
+-   Make [Sand Mandalas](https://en.wikipedia.org/wiki/Sand_mandala). In this case it is to worship the extremes of building and destruction for Nyxmera.
+-   Play [Mancala](https://en.wikipedia.org/wiki/Mancala). They play this game with a glass board and coloured small bones of BONEHEADS.
+-   Drink [Marsala](https://en.wikipedia.org/wiki/Marsala_wine). This is a fortified wine, normally from the Italian region surrounding the city of Marsala.
+
+Names of Doppelgänger employees in the area include:
+
+| D6  | Feminine              | Masculine                               |
+|-----|-----------------------|-----------------------------------------|
+| 1   | Kamala (Lotus flower) | Nala (Nothing)                          |
+| 2   | Sojula (Dawn)         | Wanjala (Born during great famine)      |
+| 3   | Malala (Sad sad sad)  | Dala (Petal)                            |
+| 4   | Leala (Faithful)      | Babala (Above)                          |
+| 5   | Harshala (Happiness)  | Ansujala (Illumination, brilliant rays) |
+| 6   | Ujjwala (Bright)      | Rakala (Moon beam)                      |
+
+## Sol
+
+[Sol the Ablated](https://m-gemmell.github.io/Primeval_Deities_FIST/Nyxmera/Sol_the_ablated.html) is a lieutenant of [Dr. Petra Pufferfish](https://m-gemmell.github.io/Primeval_Deities_FIST/Gaia/Dr_Petra_Pufferfish.html).
+Sol is able to implant their will into another human by replacing the victim's eyes with their own.
+One eyes has blue sclera with a yellow iris whilst the other has black sclera with a purple and grey iris.
+This human is then known as a Sol Doppelganger.
+
+The Doppelganger still retains a lot of its personality but works whole heartedly to benefit Sol and will be called Sol.
+It also gains powers related to given title by Sol.
+
+The leader of the Doppelganger Dunes forces is SOL: DOPPELGANGER OF DESERTS.
+
+### SOL: DOPPELGANGER OF DESERTS
+
+
+
+## Encounters
+
+When the characters travel through the SANDWOODS roll for an encounter.
+
+- First roll a D6
+  - On a 1-4 roll once on the encounter table. The players encounter that one group.
+  - On a 5-6 roll twice (rerolling any duplicates). Both groups are meeting and the players are there whilst it happens.
+  
+1. Group of 1D6+1 orang-utans trying to escape to the WINDWOODS
+2. A forest of cactuses. Destruction by BONEHEADS will be apparent around the edges.
+3. 1D6 SKYBOUND DOPPELGANGERS escorting an ADULT ANTLION
+4. 2D6 SANDBOUND DOPPELGANGERS
+5. 3D6 BONEHEADS
+6. Hidden LARVAL ANTLION
 

@@ -3,7 +3,7 @@
     "path": "F:/Git/THE_BEAD/DENDROSPHAERA/SANDWOODS.qmd",
     "project_path": "DENDROSPHAERA/SANDWOODS.qmd",
     "type": "quarto_markdown",
-    "hash": "817940142",
+    "hash": "1250924617",
     "contents": "",
     "dirty": false,
     "created": 1722546700209.0,
@@ -13,15 +13,19 @@
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "37,13",
-        "scrollLine": "6"
+        "cursorPosition": "61,0",
+        "scrollLine": "56",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "3439:2231.51513671875"
     },
     "folds": "",
-    "lastKnownWriteTime": 1722548820,
+    "lastKnownWriteTime": 1722672253,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722548820734,
+    "last_content_update": 1722672253401,
     "read_only": false,
     "read_only_alternatives": []
 }
