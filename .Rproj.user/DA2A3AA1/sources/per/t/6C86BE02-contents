@@ -12,7 +12,7 @@ A desert full of sand dunes created by the winds of the nearby WINDWOODS.
 
 ### Solar tower
 
-Solar power energy produced by mirrors focussing sun on a large tower. Charges up batteries.
+Solar power energy produced by mirrors focussing sun on a large tower. Charges up batteries. These batteries are transported to the other bases by the AIRBORNE DOPPELGANGERS and their tamed ADULT GIANT ANTLIONS.
 
 A tower dungeon.
 
@@ -43,44 +43,54 @@ Goods, people, and energy flown in and out by Adult antlions. The SKYBOUND DOPPE
 -   4 Large laser cannon towers: 2 on top and 2 on bottom surface of island. If the solar tower has be sabotaged successfully only one of these will be functional, one at the top.
 -   Doppelganger guards: There will be less guards if the desalination and bonehead base have been sabotaged. This is due to the redirecting of forces and that some of the forces will have to leave the DENDROSPHAERA as there is not enough provisions to maintain them all.
 
-## Fauna an Flora
+## Fauna and Flora
 
-### Cactuses
+The three major fauna and flora of the SANDWOODS are cactuses, BONEHEADS, and Giant Antlions (GIANT LARVAL ANTLIONS and GIANT ADULT ANTLIONS).
 
-Rare fruit can be gathered from the cactuses. These can be used to tame the BONEHEADS.
+The SANDWOODS was once covered in a forest of cactuses. Now there is only a scattering os smaller forests. This decimation was caused by the introduction of the BONEHEADS. The BONEHEADS eat the entire cactus but are especially fond of the special rare fruit the cactuses. This fruit can be used to easily tame and ride the BONEHEADS.
+
+The BONEHEADS are [Pachycephalosaurus](https://en.wikipedia.org/wiki/Pachycephalosaurus) that were created by the [CGC](https://m-gemmell.github.io/Primeval_Deities_FIST/Gaia/CGC.html) scientists that occupy the [WATERWOODS](DENDROSPHAERA/WATERWOODS.qmd). As herbivores they generally gather in roaming flocks.
+
+As the population of BONEHEADS has increased so has the population of Giant [Antlions](https://en.wikipedia.org/wiki/Antlion). The larvae bury into the sand around the cactuses and ambush the BONEHEADS. This has greatly increased the survival rates of the LARVAL GIANT ANTLIONS which are also able to eat humans. This has therefore increased the amount of ADULT GIANT ANTLIONS.
+
+[DOPPELGANGER DUNES](https://m-gemmell.github.io/Primeval_Deities_FIST/Nyxmera/Doppelganger_Dunes.html) use the ADULT GIANT ANTLIONS as massive air-based beasts of burden. The [SKYBOUND DOPPELGANGERS](https://m-gemmell.github.io/Primeval_Deities_FIST/Nyxmera/Doppelganger_Dunes.html#skybound_doppelganger) are able to tame and escort them with their aeolian whistles. They are easy to maintain only needing to feed on airborne pollen that is blown in by the winds of the [WINDWOODS](DENDROSPHAERA/WINDWOODS.qmd). These strong winds also allowing the adults to easily fly despite their size.
 
 ### BONEHEADS
 
-BONEHEADS are Pachycephalosaurus created by the CGC in the WATERWOODS. They are roaming herbivourous flocks that have decimated the cactus population and therefore played havoc with the local ecosystem.
+5 HP \| 1 ARMOR \| TAC:-1 \| FRC:+1 \| RFX:0 \| CRE:-1
 
-### GIANT ANTLIONS
+- [Pachycephalosaurus](https://en.wikipedia.org/wiki/Pachycephalosaurus)
+- Think bared skull (1D6+1 DAMAGE)
+- Tough skin
+- Herbivorous dinosaur
+- Males have blue and yellow feathers
+- Females have sand coloured feathers
 
-LARVAE GIANT ANTLIONS hide in the sands near cactuses. They feed on herbivores such as BONEHEADS. Due to the abundance of BONEHEADS the population of ANTLIONS has also vastly increased.
+__THICK-SKULLED:__ These creatures are dumb and skittish but they thrive in deserts. When threatened they have a 4 in 1D6 chance of fleeing. If they don't flee they will instead fight to the death.
 
-The ADULT GIANT ANTLIONS fly through the air and many are used by Doppelgänger Dunes as flying transport.
+### GIANT LARVAL ANTLION
+
+4 HP \| TAC:-1 \| FRC:+1 \| RFX:+1 \| CRE:-2
+
+- Larval [Antlion](https://en.wikipedia.org/wiki/Antlion) the size of a rhino
+- Massive sickle-like jaws (1D6+2 DAMAGE)
+
+__AVALANCHER:__ This creature burrows into the sand creating an area around it that will avalanche into its mouth with the weight of a human. As the creatures are large the avalanche area is wide and deep. Quick reactions and/or help from their team-mates may prevent being caught in the jaws of this deadly predator.
+
+### GIANT ADULT ANTLION
+
+6 HP \| TAC:0 \| FRC:0 \| RFX:+1 \| CRE:-1
+
+- Adult [Antlion](https://en.wikipedia.org/wiki/Antlion) with the wingspan of a Boeing 757 (38m)
+- Look similar to dragonflies
+
+__WIND-POWERED:__ These massive creatures can only survive in high wind deserts. The wind keeps their massive size afloat and brings them the airborne pollen they need to survive.
 
 ## Doppelgänger Dunes
 
-A Nyxmera faction that lives and works in deserts. They love the temperature extremes of day & night. They also adore the clearness of the skies so they can observe the day and night skies.
+[Doppelgänger Dunes](https://m-gemmell.github.io/Primeval_Deities_FIST/Nyxmera/Doppelganger_Dunes.html) occupy the desert for Amazonia. They are Nyxmera faction that lives and works in deserts. They love the temperature extremes of day & night. They also adore the clearness of the skies so they can observe the day and night skies.
 
-Apart from work they also partake in the following past times:
-
--   Make [Sand Mandalas](https://en.wikipedia.org/wiki/Sand_mandala). In this case it is to worship the extremes of building and destruction for Nyxmera.
--   Play [Mancala](https://en.wikipedia.org/wiki/Mancala). They play this game with a glass board and coloured small bones of BONEHEADS.
--   Drink [Marsala](https://en.wikipedia.org/wiki/Marsala_wine). This is a fortified wine, normally from the Italian region surrounding the city of Marsala.
-
-Names of Doppelgänger employees in the area include:
-
-| D6  | Feminine              | Masculine                               |
-|-----|-----------------------|-----------------------------------------|
-| 1   | Kamala (Lotus flower) | Nala (Nothing)                          |
-| 2   | Sojula (Dawn)         | Wanjala (Born during great famine)      |
-| 3   | Malala (Sad sad sad)  | Dala (Petal)                            |
-| 4   | Leala (Faithful)      | Babala (Above)                          |
-| 5   | Harshala (Happiness)  | Ansujala (Illumination, brilliant rays) |
-| 6   | Ujjwala (Bright)      | Rakala (Moon beam)                      |
-
-## Sol
+The leader of the Doppelganger Dunes forces is SOL: DOPPELGANGER OF DESERTS.
 
 [Sol the Ablated](https://m-gemmell.github.io/Primeval_Deities_FIST/Nyxmera/Sol_the_ablated.html) is a lieutenant of [Dr. Petra Pufferfish](https://m-gemmell.github.io/Primeval_Deities_FIST/Gaia/Dr_Petra_Pufferfish.html).
 Sol is able to implant their will into another human by replacing the victim's eyes with their own.
@@ -89,12 +99,6 @@ This human is then known as a Sol Doppelganger.
 
 The Doppelganger still retains a lot of its personality but works whole heartedly to benefit Sol and will be called Sol.
 It also gains powers related to given title by Sol.
-
-The leader of the Doppelganger Dunes forces is SOL: DOPPELGANGER OF DESERTS.
-
-### SOL: DOPPELGANGER OF DESERTS
-
-
 
 ## Encounters
 
