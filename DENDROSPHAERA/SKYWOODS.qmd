@@ -2,46 +2,39 @@
 title: "SKYWOODS"
 ---
 
-An archipelago of skybound islands. 
+An archipelago of skybound islands high above the [WINDWOODS](/DENDROSPHAERA/WINDWOODS.qmd). 
 There near perfect flat tops bely their true origin.
-They are the tops of the mountains from the REDWOODS, this is evident by the foundation. Rough and tapering to the once mountain tip.
+They are the tops of the mountains from the [REDWOODS](/DENDROSPHAERA/REDWOODS.qmd), this is evident by the foundation. Rough and tapering to the once mountain tip.
 
 Due to the high altitudes most life struggles.
 But where many struggle, few thrive.
 Most of the islands are littered with Giant groundsels.
-These large flowering plants are easily mistaken for small trees. The top adorned with a radial pattern of thick elliptical leaves curving up tpo the skies. Below this is a black/brown mass of these leaves, dead. This mass growing larger the closer to the top as the leaves layer on top of each other.
+These large flowering plants are easily mistaken for small trees. The top adorned with a radial pattern of thick elliptical leaves curving up to the skies. Below this is a black/brown mass of these leaves, dead. This mass growing larger the closer to the top as the leaves layer on top of each other.
 
-Due to island separation these giant groundsel differ from island to island. This also determines the birds, as their is a litany of them, that exist ion each island.
+Due to island separation these giant groundsel differ from island to island. This also determines the birds, as there is a litany of them, that exist on each island.
 
-Of course where their is life there are sentient humanoids. They live a hard life on the central island. They live in houses that have been combined with birds. This allows them to leave these islands and explore the world. These created by Bab and Yaga, Grandmother and Grandson. Grandson able to build the finest and sturdiest houses. Grandmother able to combine that with birds.
+Of course where there is life there are sentient humanoids. They live a hard life on the central island. They live in houses that have been combined with birds. This allows them to leave these islands and explore the world. These are created by Bab and Yaga, Grandmother and Grandson. Grandson able to build the finest and sturdiest houses. Grandmother able to combine that with birds.
 
+One solace the inhabitants of these sky have is the high winds.
+Although convenient in many ways it has kept Amazonia away as her drones cannot fly in the high winds.
+However, there are rumours of mercenaries descending on this world who are more than happy to obey Amazonia's commands with monetary payment.
 
-(These are the tops of the mountains in the REDWOODS).
-
-- Archipelago of sky islands
-- Giant groundsel are the flora. Differ from island to island
-- Each island has a bird that specialises on the specific groundsel in some manner
-- Above the wind woods
-- Amazonia cannot reach here as her drones cannot handle the wind
-- ONe island has been stolen and is in the SANDWOODS as the major base
-
-
-
-## Bab & Yaga
+# Bab & Yaga
 
 Bab is the Grandma of Yaga who is the grandson of Bab.
 
 Yaga is a ginger young man. 
-He is built like a log with his furry torso always on display through thick suspenders that keep his tool belt and hemp trousers aloft.
-His head and face are covered in thick but finely braided hair.
-Even through all this his bright eyes show he is always smiling whilst building houses or having tea with his grandma.
+Built like a log he always has his furry torso on display through thick suspenders that keep his tool belt and hemp trousers aloft.
+He quite likely has a handsome face but it is obscured with thick finely braided hair.
+Even through all this his bright eyes show through.
+Its easy to see he is always smiling whilst building houses or having tea with his grandma.
 
-Many will see a hag, a crone, and a witch when their eyes feast upon Bab.
+Many will see a hag, a crone, and a witch when their eyes feast upon the folkloric Bab.
 This impression will not be softened by her manic enthusiasm for combining birds with all manner of inanimate objects.
 Once you get past your preconceptions you will behold a wise kind woman gone childish with age.
 She is most at peace when enthralled in her work, listening to the music from her lyrebird based gramophone, or sharing tea with her grandson.
 
-### Quests
+## Quests
 
 Bab and Yaga will help the players by building a bird house for them.
 They want Amazonia stopped and see potential in the players.
@@ -55,9 +48,7 @@ These quests are:
 
 Between quests the players can relax in the village, make friends with Bab and Yaga, and possibly even help Yaga build the wood structure of their house.
 
-
-
-## Minor Islands
+# Minor Islands
 
 Island ideas:
 - Troll Island: An island covered in disgorged Troll
@@ -74,22 +65,25 @@ Bird ideas, most birds are from vultures due to the high altitude:
 - Troll vulture, raised by actual trolls. The trolls feed them their flesh. This has caused the vultures to become massive and they can regenerate. The trolls use them for travel. Most likely need to bargain with a troll to get one.
 - 
 
-### Gourd Island
+## Gourd Island
 
-An Island inhabited by Trolls, Troll vultures, and the Gourd Groundsels. Aside from these the only other life includes flying bugs to small to be noticed by these massive inhabitants.
+An Island inhabited by [GOAT TROLLS](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#goat-troll), [TROLL VULTURES](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#troll-vulture), and the Gourd Groundsels. Aside from these the only other life includes flying bugs too small to be noticed by these massive inhabitants.
 
-When the trolls lived in the WINDWOODS they would regularly play fight with members of their community. Of course when you can perfectly regenerate (as long as there is no fire or acid involved) this leads to many lost limbs. The largest and bravest vultures capitalised on these opportunities.
+When the [GOAT TROLLS](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#goat-troll) lived in the [WINDWOODS](/DENDROSPHAERA/WINDWOODS.qmd) they would regularly play fight with members of their community. Of course when you can perfectly regenerate (as long as there is no fire or acid involved) this leads to many lost limbs. The largest and bravest vultures capitalised on these opportunities.
 
-However, this led the vultures to rapidly evolve into Troll vultures. Massive regenerating vultures able to carry the weight of a Troll due to the high winds of the WINDWOODS. The 2 species partnered together making there new home on Gourd Island and hunting and scavenging the surrounding lands.
+However, this led the vultures to rapidly mutate into [TROLL VULTURES](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#troll-vulture). Massive regenerating vultures able to carry the weight of a [GOAT TROLL](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#goat-troll) due to the high winds of the [WINDWOODS](/DENDROSPHAERA/WINDWOODS.qmd). The 2 species partnered together making their new home on Gourd Island and hunting and scavenging the surrounding lands.
 
-Gourd Island was not just useful due to its elevation but also due to its flora. The Gourd Grounsels are engorged with all the water they can capture on the island, leaving none for any other creature. Except the Trolls and their animal companions. You will never see a troll without the gourd they strap to their backs. Used to quench the thirst of them and their vultures.
+Gourd Island was not just useful due to its elevation but also due to its flora. The Gourd Groundsels are engorged with all the water they can capture on the island, leaving none for any other creatures. Except the [GOAT TROLLS](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#goat-troll) and their animal companions. You will never see a troll without the gourd they strap to their backs. Used to quench the thirst of them and their vultures.
 
-They occasionally trade one of their Troll vultures to other humanoids. This may be in exchange for a quest or for an amazing hunting weapon.
+They occasionally trade one of their [TROLL VULTURES](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#troll-vulture) to other humanoids. This may be in exchange for a quest or for an amazing hunting weapon.
 
-### Fork Island
+[Link to GOAT TROLLS and VULTURE TROLLS](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#BEZOAR)
+
+
+## Fork Island
 
 Two main features are apparent when entering this island. 
-The first is the thin and tall forked groundsels with their forked leaves.
+The first is the thin and tall bifurcated groundsels with their forked leaves.
 The second is the cacophony of noises.
 The buzzing of insects, the winds rustling the leaves, and most importantly the lyre birds.
 
@@ -97,11 +91,11 @@ The Lyre birds sing their songs, attempting and succeeding in being the lead voc
 They yell their sharp loud pitches for a variety of reasons.
 They concuss any predatory birds foolhardy enough to hunt them.
 They make beautiful melodies to attract mates and use their volume to scare off the competition.
-But possibly most importantly of all, through their mastery of pitch and making any sound imaginable they can play the key song of the leaves of the forked groundsels.
+But possibly most importantly of all, through their mastery of pitch and recreating any sound imaginable they can play the key song of the leaves of the forked groundsels.
 
 The leaves of the forked groundsels act as super precise tuning forks.
-Each leaf has a specific sounds with a specific tone, pitch, and decibel that will activate it.
-Once done the leaf will franticly vibrate and eventually fall of the tree.
+Each leaf has a specific sound with a specific tone, pitch, and decibel that will activate it.
+Once activated the leaf will franticly vibrate and eventually fall off the tree.
 These forked leaves being a major source of nutrition for the forked lyrebirds.
 
-## Attack from the Doppelgangers
+# Attack from the Doppelgangers

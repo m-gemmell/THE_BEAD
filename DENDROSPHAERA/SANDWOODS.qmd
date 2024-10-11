@@ -8,19 +8,19 @@ title: "SANDWOODS"
 
 A desert full of sand dunes created by the winds of the nearby WINDWOODS.
 
-## Minor bases
+# Minor bases
 
-### Solar tower
+## Solar tower
 
 Solar power energy produced by mirrors focussing sun on a large tower. Charges up batteries. These batteries are transported to the other bases by the AIRBORNE DOPPELGANGERS and their tamed ADULT GIANT ANTLIONS.
 
 A tower dungeon.
 
-### Desalination base
+## Desalination base
 
 Base where water is brought in from the sea and desalinated. Uses sun based evaporation. Water used for mining and consumption.
 
-### Bonehead hatchery
+## Bonehead hatchery
 
 Boneheads are Pachycephalosaurus. Throughout the desert they feed on cactus. They all lay their eggs at the hatchery. Doppelganger Dunes set up defences here to guard the eggs from predators. In exchange they take some eggs for nutrition, ensuring to leave enough for a healthy population.
 
@@ -28,7 +28,7 @@ The boneheads were created by the CGC in the WATERWOODS. They are like an invasi
 
 It is an open base guarded by towers and patrols.
 
-## Major base
+# Major base
 
 The major base is a sand extraction site.
 
@@ -38,12 +38,12 @@ Sand is separated into its various elements & compounds.
 
 Goods, people, and energy flown in and out by Adult antlions. The SKYBOUND DOPPELGANGERS can get themselves on and off it.
 
-### Defenses
+## Defenses
 
 -   4 Large laser cannon towers: 2 on top and 2 on bottom surface of island. If the solar tower has be sabotaged successfully only one of these will be functional, one at the top.
 -   Doppelganger guards: There will be less guards if the desalination and bonehead base have been sabotaged. This is due to the redirecting of forces and that some of the forces will have to leave the DENDROSPHAERA as there is not enough provisions to maintain them all.
 
-## Fauna and Flora
+# Fauna and Flora
 
 The three major fauna and flora of the SANDWOODS are cactuses, BONEHEADS, and Giant Antlions (GIANT LARVAL ANTLIONS and GIANT ADULT ANTLIONS).
 
@@ -55,7 +55,7 @@ As the population of BONEHEADS has increased so has the population of Giant [Ant
 
 [DOPPELGANGER DUNES](https://m-gemmell.github.io/Primeval_Deities_FIST/Nyxmera/Doppelganger_Dunes.html) use the ADULT GIANT ANTLIONS as massive air-based beasts of burden. The [SKYBOUND DOPPELGANGERS](https://m-gemmell.github.io/Primeval_Deities_FIST/Nyxmera/Doppelganger_Dunes.html#skybound_doppelganger) are able to tame and escort them with their aeolian whistles. They are easy to maintain only needing to feed on airborne pollen that is blown in by the winds of the [WINDWOODS](DENDROSPHAERA/WINDWOODS.qmd). These strong winds also allowing the adults to easily fly despite their size.
 
-### BONEHEADS
+## BONEHEADS
 
 5 HP \| 1 ARMOR \| TAC:-1 \| FRC:+1 \| RFX:0 \| CRE:-1
 
@@ -68,7 +68,7 @@ As the population of BONEHEADS has increased so has the population of Giant [Ant
 
 __THICK-SKULLED:__ These creatures are dumb and skittish but they thrive in deserts. When threatened they have a 4 in 1D6 chance of fleeing. If they don't flee they will instead fight to the death.
 
-### GIANT LARVAL ANTLION
+## GIANT LARVAL ANTLION
 
 4 HP \| TAC:-1 \| FRC:+1 \| RFX:+1 \| CRE:-2
 
@@ -77,7 +77,7 @@ __THICK-SKULLED:__ These creatures are dumb and skittish but they thrive in dese
 
 __AVALANCHER:__ This creature burrows into the sand creating an area around it that will avalanche into its mouth with the weight of a human. As the creatures are large the avalanche area is wide and deep. Quick reactions and/or help from their team-mates may prevent being caught in the jaws of this deadly predator.
 
-### GIANT ADULT ANTLION
+## GIANT ADULT ANTLION
 
 6 HP \| TAC:0 \| FRC:0 \| RFX:+1 \| CRE:-1
 
@@ -86,7 +86,7 @@ __AVALANCHER:__ This creature burrows into the sand creating an area around it t
 
 __WIND-POWERED:__ These massive creatures can only survive in high wind deserts. The wind keeps their massive size afloat and brings them the airborne pollen they need to survive.
 
-## Doppelgänger Dunes
+# Doppelgänger Dunes
 
 [Doppelgänger Dunes](https://m-gemmell.github.io/Primeval_Deities_FIST/Nyxmera/Doppelganger_Dunes.html) occupy the desert for Amazonia. They are Nyxmera faction that lives and works in deserts. They love the temperature extremes of day & night. They also adore the clearness of the skies so they can observe the day and night skies.
 
@@ -100,7 +100,7 @@ This human is then known as a Sol Doppelganger.
 The Doppelganger still retains a lot of its personality but works whole heartedly to benefit Sol and will be called Sol.
 It also gains powers related to given title by Sol.
 
-## Encounters
+# Encounters
 
 When the characters travel through the SANDWOODS roll for an encounter.
 
