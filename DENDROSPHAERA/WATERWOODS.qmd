@@ -8,3 +8,5 @@ title: "WATERWOODS"
 - Other bases include:
   - Oil rig (Kraken run)
   - Shore based fish farm
+  
+- To make their bird house able to swim they will need to capture a rockhooper penguin like creature on a stony island

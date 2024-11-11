@@ -5,50 +5,91 @@ editor:
     wrap: sentence
 ---
 
-An archipelago of sky bound islands high above the [WINDWOODS](/DENDROSPHAERA/WINDWOODS.qmd).
-Their near perfect flat tops bely their true origin.
-They are the tops of the mountains from the [REDWOODS](/DENDROSPHAERA/REDWOODS.qmd), this is evident by the foundation.
-Rough and tapering to the once mountain tip.
+<center>
 
-Due to the high altitudes most life struggles.
+![](images/SKYWOODS.png){style="width:200px"}
+
+</center>
+
+The SKYWOODS is an archipelago of sky bound islands high above the [WINDWOODS](/DENDROSPHAERA/WINDWOODS.qmd).
+Their unnaturally flat tops bely their true origin, upside down mountain tips.
+They come from the mountains of the [REDWOODS](/DENDROSPHAERA/REDWOODS.qmd), now a range of mesas.
+Their previous lives are evident by their foundations, rough and tapering to the once mountain tip.
+
+# Endemic life
+
+Life struggles at the high altitudes of the SKYWOODS.
 But where many struggle, few thrive.
-Most of the islands are littered with Giant groundsels.
+These survivors have adapted in specific ways, giving rise to unique species on the different islands.
+
+## Giant groundsels
+<center>
+
+[![Senecio kilimanjari](images/Senecio_kilimanjari.jpg){style="width:200px; border-radius:15px"}](https://en.wikipedia.org/wiki/File:Senecio_kilimanjari.jpg)
+
+</center>
+
+The islands are littered with various species of [Giant groundsels](https://en.wikipedia.org/wiki/Dendrosenecio).
 These large flowering plants are easily mistaken for small trees.
-The top adorned with a radial pattern of thick elliptical leaves curving up to the skies.
+The top is adorned with a radial pattern of thick elliptical leaves curving up to the skies.
 Below this is a black/brown mass of these leaves, dead.
 This mass growing larger the closer to the top as the leaves layer on top of each other.
 
-Due to island separation these giant groundsel differ from island to island.
-This also determines the birds, as there is a litany of them, that exist on each island.
+## Birds
+<center>
 
-Of course where there is life there are sentient humanoids.
-They live a hard life on the central island.
-They live in houses that have been combined with birds.
-This allows them to leave these islands and explore the world.
-These are created by Bab and Yaga, Grandmother and Grandson.
-Grandson able to build the finest and sturdiest houses.
-Grandmother able to combine that with birds.
+![](images/SKYWOOD_bird.png){style="width:100px; background: #0082c8; border-radius:5px"}
 
-One solace the inhabitants of these sky have is the high winds.
-Although convenient in many ways it has kept Amazonia away as her drones cannot fly in the high winds.
-However, there are rumours of mercenaries descending on this world who are more than happy to obey Amazonia's commands with monetary payment.
+</center>
 
-# Central plateua
+The main animal life, aside from insects, comes in the form of birds.
+Other animals were unable to colonise the SKYWOODS and so variosu birds settled and adapted to the floating islands.
+Some birds became flightless whilst others retained their flight.
 
-The central floating plateau and the largest.
-It is inhabited by the humanoid villagers who have engineered the land to create a terrain with sharp hills surrounding the flat centre which holds the village.
+These birds eat:
 
-The villagers worship Nyxmera who keeps the winds strong in the [WINDWOODS](/DENDROSPHAERA/WINDWOODS.qmd) and allows the SKYWOODS to keep aloft.
+-   The fruit and leaves of the Giant groundsels
+-   Insects that depend on the Giant groundsels
+-   Plants and creatures from the lands below
+-   Other birds in and around the SKYWOODS
+
+# Protection from Amazonia
+
+<center>
+
+![](images/wind_shield.png){style="width:200px"}
+
+</center>
+
+One solace the inhabitants of these sky Islands have is the high winds.
+Although inconvenient in many ways, it has kept AMAZONIA away as her drones cannot fly in the high winds.
+However, there are rumours of mercenaries descending on this world who are more than happy to obey AMAZONIA commands with monetary payment.
+
+# Central Island
+
+The central floating of the SKYWOODS is inhabited by humanoid villagers who have engineered the land.
+A flat central village, **Summitville**, is surrounded by stepped hills used as multiple levels of farmland.
+
+The villagers worship [NYXMERA](https://m-gemmell.github.io/Primeval_Deities_FIST/nyxmera.html) who keeps the winds strong in the [WINDWOODS](/DENDROSPHAERA/WINDWOODS.qmd) and allows the SKYWOODS to keep aloft.
 There are 2 main types of villages, the farmers and the traders.
+
+The village is also hosting many refugees that have been displaced by Amazonia.
+This includes humans, and various sentient anthropomorphic animals such as the Gigantopithecuses from the REDWOODS.
 
 ## Farmers
 
-The farmers tend the hilly lands growing crops and livestock that are suited to high altitudes.
-They all work on the same land and help each other but each specialises in a specific crop/livestock.
+<center>
+
+[![Pisac Terrassen medium](images/Pisac_Terrassen_medium.jpg){style="width:300px; border-radius:15px"}](https://en.wikipedia.org/wiki/File:Pisac_Terrassen_medium.jpg)
+
+</center>
+
+The farmers tend the terraced hills growing crops and livestock that are suited to high altitudes.
+They all share the land, helping each other but also specialising in a specific crop/livestock.
 They are hard workers but love to unwind with food, drink, and entertainment they perform for each other.
 
 | D6  | Name      | Crops/Livestock                           | Appearence                                                                                                                       | Entertainment                                                               |
-|------|----------|----------------|---------------------|---------------------|
+|------|----------|-----------------|--------------------|--------------------|
 | 1   | Anglin    | Coffee                                    | Wears beautiful multicoloured ponchos stained with coffee                                                                        | Part of a troupe of acrobatic dancers                                       |
 | 2   | Earthstar | Onions, Garlic, and Leeks                 | Incredibly tall with a long nose and chin that run parallel to each other                                                        | Puppetry                                                                    |
 | 3   | Icarus    | Yak                                       | A relaxed [GOAT TROLL](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#goat-troll) covered in Yak furs | Story teller with a preference of tales of the Primeval Deities             |
@@ -58,65 +99,101 @@ They are hard workers but love to unwind with food, drink, and entertainment the
 
 ## Traders
 
+<center>
+
+![](images/traders.png){style="width:200px; background:#0082c8; border-radius:5px "}
+
+</center>
+
 Many traders live in the Village within the Central Plateau.
 They travel the lands trading the goods created by them and the farmers.
 They each have their own bird house they use as their house and travelling shop.
 Rather than bartering in currency most bartering on this world is done through goods, services, and entertainment.
 Traders prefer to offer specialised services rather than entertainment.
 
-| D6  | Name     | Service                               | Appearence                                                                           | Preferred goods to acquire and sell                        |
-|------|----------|-------------|-------------------------|--------------------|
-| 1   | Chu      | Cobbler                               | Pale and gangly they always sport a sleep expression                                 | Musical instruments                                        |
+At the start of each new day roll 2D6 to determine which traders are currently in the Village (do no re roll duplicates). They are very busy trading and helping refugees escape Amazonia.
+
+| D6  | Name     | Service                               | Appearance                                                                           | Preferred goods to acquire and sell                        |
+|-------|-----------|---------------|---------------------|--------------------|
+| 1   | Chu      | Cobbler                               | Pale and gangly they always sport a sleepy expression                                 | Musical instruments                                        |
 | 2   | Doak     | Knitter                               | Messy red hair frames a face covered by large shaded specs                           | Furniture                                                  |
 | 3   | Flettner | Masseur                               | A Gigantopithecus from the REDWOODS. The hair on their head is braided with flowers. | Fruit, jam, and honey                                      |
-| 4   | Irkut    | Medicine                              | Bald with botanical stains over their hands and the crown of their head              | Herbs & poulstices                                         |
-| 5   | Trendak  | Ceramics repair (similar to Kintsugi) | Hunched figure with arms made of the night sky containing bones of gold              | Precious gems, metals, and jewlerry                        |
+| 4   | Irkut    | Medicine                              | Bald with botanical stains over their hands and the crown of their head              | Herbs & poultices                                         |
+| 5   | Trendak  | Ceramics repair (similar to Kintsugi) | Hunched figure with arms made of the night sky containing bones of gold              | Precious gems, metals, and jewellery                        |
 | 6   | Vortech  | Transport & Delivery                  | Quiet and short they always wear a captains hat                                      | Books and specimens on the plants and insects of the world |
 
-# Bab & Yaga
+## Bab & Yaga {#bab_and_yaga}
 
-Bab is the Grandma of Yaga who is the Grandson of Bab.
+<center>
 
-Yaga is a ginger young man.
+![](images/BAB.png){style="width:200px; border-radius:5px"}
+![](images/YAGA.png){style="width:235px; border-radius:5px"}
+
+</center>
+
+Possibly the most important community members of __Summitville__ are __Bab__, Grandma of __Yaga__, and __Yaga__, Grandson of __Bab__.
+
+__Yaga__ is a ginger young man.
 Built like a log he always has his furry torso on display through thick suspenders that keep his tool belt and hemp trousers aloft.
 He quite likely has a handsome face but it is obscured with thick finely braided hair.
 Even through all this his bright eyes show through.
 Its easy to see he is always smiling whilst building houses or having tea with his grandma.
 
-Many will see a hag, a crone, and a witch when their eyes feast upon the folkloric Bab.
+Many will see a hag, a crone, and a witch when their eyes feast upon the folkloric __Bab__.
 This impression will not be softened by her manic enthusiasm for combining birds with all manner of inanimate objects.
 Once you get past your preconceptions you will behold a wise kind woman gone childish with age.
 She is most at peace when enthralled in her work, listening to the music from her lyrebird based gramophone, or sharing tea with her grandson.
 
-## Quests
+### Quests
 
-Bab and Yaga will help the players by building a bird house for them.
-They want Amazonia stopped and see potential in the players.
+__Bab__ and __Yaga__ will help the players by building a Bird house for them.
+They want AMAZONIA stopped and see potential in the PCs.
 
-However, Bab needs the birds and will therefore set the players to gather one at a time, the player's chosing which one to go on.
+The Bird house is a chimera of birds and house. 
+Being able to travel by leg and wings they are invaluable to the traders and will be invaluable to the PCs.
+
+However, __Bab__ needs the birds and will therefore set the players to gather one at a time, the PCs choosing which one to go on.
 These quests are:
 
--   Get a Troll Vulture from Gourd Island
--   Get a Lyrebird from Fork Island
--   
+-   Get a [TROLL VULTURES](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#troll-vulture) from Gourd Island for its large wings
+-   Get a Lyrebird from Fork Island to be able to communicate with the house
+-   Get a White Stork from Tryp Island for it ability to rebuild itself
+-   Get an Elephant bird from Jungle island for its large and strong legs
 
-Between quests the players can relax in the village, make friends with Bab and Yaga, and possibly even help Yaga build the wood structure of their house.
+### BIRD HOUSE
+
+14HP 1 ARMOR
+
+- Strong log cabin (1 ARMOR)
+- Massive wings a vulture capable of flight (as fast as a small propeller plane)
+- Legs of an Elephant bird large & strong enough for locomotion (can sprint at speed of a Jeep)
+- Head is of sentient Lyrebird that sticks out as the horn of a gramophone in the main room
+- Able to fully heal itself after a mission
+
+__FOWL'S MOVING CASTLE:__ Created by the woodwork of __Bab__ and the Witchcraft of __Yaga__ this Bird based house is sentient. It is able to understand basic commands. It will not tolerate any abuse and demands a lot of affection. Although it can speak a little it much prefers to make pitch perfect sound effects with its Lyrebird vocal organ (syrinx) to communicate.
+
+### Downtime and upgrades
+
+Between quests the players can relax in the village, make friends with __Bab__, __Yaga__, and the other villagers. The PCs can also help out the villagers, including __Bab__ and __Yaga__.
+If they help, their final Bird House could have some upgrades.
+
+The referee/GM is encouraged referee to give a minimum of 1 and a maximum of 4 upgrades.
+Additionally, it is encouraged to collabortate with the players on the shape and utility of these upgrades.
+Some suggestions are:
+
+- Hardened wood: Increase ARMOR from 1 to 2
+- Specialised work stations: This could be for chemistry, tinkering, medicine, weaponsmithing etc.
+- Mounted harpoon gun: 1D6 DAMAGE, can hook onto vehicles and other objects
+- Paragliders: Allows for aerial drops
 
 # Minor Islands
 
-Island ideas: - Troll Island: An island covered in disgorged Troll - Island of tune fork groundsells.
-Inhabited by ground bound Lyrebird like birds.
-They can play notes that cause the tune fork leaves to fall which they feed on.
+Floating around the Central island are the minor islands. 
+They are constantly moving making it impossible to travel by foot.
 
-Groundsell ideas: - One that ants use a colony - Multiple leaf rosettes from one organism that spreads around like a spider plant - Water gorgers.
-These groundsels can be found on Troll island
-
-Bird ideas, most birds are from vultures due to the high altitude: - Troll vulture, raised by actual trolls.
-The trolls feed them their flesh.
-This has caused the vultures to become massive and they can regenerate.
-The trolls use them for travel.
-Most likely need to bargain with a troll to get one.
--
+To travel to an Island the PCs either need a method to travel a few miles through incredibly windy conditions or ask a trader for transport.
+A trader will help the PCs to get to the island and back via their BIRD HOUSE every other day.
+In other words the PCs have a rest day after coming back from one island.
 
 ## Gourd Island
 
@@ -127,14 +204,13 @@ When the [GOAT TROLLS](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartaru
 Of course when you can perfectly regenerate (as long as there is no fire or acid involved) this leads to many lost limbs.
 The largest and bravest vultures capitalised on these opportunities.
 
-However, this led the vultures to rapidly mutate into [TROLL VULTURES](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#troll-vulture). Massive regenerating vultures able to carry the weight of a [GOAT TROLL](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#goat-troll) due to the high winds of the [WINDWOODS](/DENDROSPHAERA/WINDWOODS.qmd).
+By consuming the flesh of [GOAT TROLLS](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#goat-troll) the vultures rapidly mutated into [TROLL VULTURES](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#troll-vulture). Massive regenerating vultures able to carry the weight of a [GOAT TROLL](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#goat-troll) due to the high winds of the [WINDWOODS](/DENDROSPHAERA/WINDWOODS.qmd).
 The 2 species partnered together making their new home on Gourd Island and hunting and scavenging the surrounding lands.
 
 Gourd Island was not just useful due to its elevation but also due to its flora.
-The Gourd Groundsels are engorged with all the water they can capture on the island, leaving none for any other creatures.
-Except the [GOAT TROLLS](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#goat-troll) and their animal companions.
-You will never see a troll without the gourd they strap to their backs.
-Used to quench the thirst of them and their vultures.
+The Gourd Groundsels are engorged with all the water they can capture on the island, leaving none for any other creatures, except the [GOAT TROLLS](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#goat-troll) and their animal companions.
+You will never see a [GOAT TROLLS](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#goat-troll) without the gourd they strap to their backs.
+Used to quench the thirst of themselves and their vultures.
 
 They occasionally trade one of their [TROLL VULTURES](https://m-gemmell.github.io/Primeval_Deities_FIST/Tartarus/Keystones.html#troll-vulture) to other humanoids.
 This may be in exchange for a quest or for an amazing hunting weapon.
@@ -146,7 +222,7 @@ This may be in exchange for a quest or for an amazing hunting weapon.
 Two main features are apparent when entering this island.
 The first is the thin and tall bifurcated groundsels with their forked leaves.
 The second is the cacophony of noises.
-The buzzing of insects, the winds rustling the leaves, and most importantly the lyre birds.
+The buzzing of insects, the winds rustling the leaves, and most importantly the Lyre birds.
 
 The Lyre birds sing their songs, attempting and succeeding in being the lead vocals.
 They yell their sharp loud pitches for a variety of reasons.
@@ -158,5 +234,44 @@ The leaves of the forked groundsels act as super precise tuning forks.
 Each leaf has a specific sound with a specific tone, pitch, and decibel that will activate it.
 Once activated the leaf will franticly vibrate and eventually fall off the tree.
 These forked leaves being a major source of nutrition for the forked lyrebirds.
+
+## Tryp Island
+
+The island's surface is littered with large holes.
+These lead to one large hole found at the very bottom.
+These tunnels act as a wind funnel, air sucked from the bottom and blown out the surface.
+
+The strong upward winds causes many rocks and clods of dirt to float up in the air.
+
+White storks are able to construct strong nests of rocks, dirt, & wood.
+These houses are tied to the incredibly tall giant groundsels that wave erratically in the wind.
+
+The White storks feed on bugs that are sucked up by the massive hole at the bottom of the island.
+They also eat voles and frogs found on the surface of the Island as well as hunting on the surrounding islands.
+
+## Jungle island
+
+As the name suggests this island is covered in thick vegetation made of a variety of Giant groundsels. It is the largest island and about the size and .
+
+Within the jungle __Mountain fowl__ eat __bugs and vegetation__. The __Mountain Fowl__ are in turn ate by the __Tall Pelicans__. The __Tall Pelicans__ keep their prey in their leathery throat pouches till they return to their nests on various small floating islands.
+
+The reason for this is simple, they use their prey as an offering to the massive predatory __HORROR BIRDS__ of the jungle. Unable to fly whilst in the thick jungle they found the best defence was to appease their predators. Better to live and starve than to die satiated.
+
+Within the jungle there are small lakes with aggressive Geese even the __HORROR BIRDS__ stay away from.
+
+Through not as noisy as Fork island their are many __Macaws__ within the tree tops.
+They mimic the voices of creatures and humans that have traversed the jungle.
+This can include the PCs, __Mountain fowl__, __Tall Pelicans__, and, __Elephant birds__.
+
+### HORROR BIRD
+
+20HP 0 ARMOR TAC:+1 \| FRC:+2 \| RFX:-1 \| CRE:-1
+
+-   Akin to a [Terror bird](https://en.wikipedia.org/wiki/Phorusrhacidae#) but larger
+-   Carnivorous
+-   Large claws and beak (1D6+3 DAMAGE)
+-   Solitary hunters
+
+__VENAL:__ The __HORROR BIRD__ is a massive creature that seems terrifying and they are. However, they primarily use their size and power to bully others. They fight members of their own species for territory. They intentionally seek other creatures who have captured prey to intimidate and steal their kill. They tend to let down their guard around creatures they appear to have successfully intimidated.
 
 # Attack from the Doppelgangers
