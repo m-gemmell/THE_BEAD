@@ -9,8 +9,15 @@ title: "WINDWOODS"
 - Currently safe from Amazonia as her drones cannot handle the wind.
 
 
-Keep this preety bare with descriptions and some random encoutner tables
+Keep this pretty bare with descriptions and some random encoutner tables
 
 Random encounters
 
 - Gitant Ornagutan refugees from the [REDWOODS](/DENDROSPHAERA/REDWOODS.qmd)
+
+
+
+- Contains a base for the Dendrosphaera resistance
+  - Create some stats for normal resitance members
+  - Create a leader and a few team leads
+  - They try to fight Amazonia's forces and help refugees
